@@ -1,0 +1,9 @@
+Host lclutz.fritz.box
+    HostName lclutz.fritz.box
+    User lcl
+    Port 2222
+
+Host lclutz.de
+    HostName lclutz.de
+    User lcl
+    Port 2222
